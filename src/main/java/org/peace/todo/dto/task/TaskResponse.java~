@@ -1,0 +1,4 @@
+package org.peace.todo.dto.task;
+
+public class TaskResponse {
+}
